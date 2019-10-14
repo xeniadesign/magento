@@ -1,1 +1,3 @@
 Now that we’ve initialized Git, let’s add a few files to our repository.
+Place some content in each one, such
+as a simple sentence.
